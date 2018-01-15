@@ -1,0 +1,17 @@
+{
+  "name": "aws-sdk-demo",
+  "version": "0.1.0",
+  "description": "A demo project for AWS SDK.",
+  "license": "MIT",
+  "scripts": {
+    "upgrade": "yarn-upgrade-all",
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.181.0"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3",
+    "yarn-upgrade-all": "^0.3.0"
+  }
+}
